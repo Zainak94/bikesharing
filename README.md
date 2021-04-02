@@ -13,6 +13,10 @@ We will use the datatype to create a set of visualization to:
 •	Show the top starting locations of bikers riding these bikes in the map. 
 •	Show the average trip duration vs the birth year. 
 
+Tableau Vizualization: 
+
+[link to dashboard](https://public.tableau.com/profile/zaineb.khan#!/vizhome/Citibike_16172754869480/NYCCitibikeAnalysis)
+
 #Results:
 
 1.	Show the length of time that bikes are checked out for all riders.
