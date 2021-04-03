@@ -21,7 +21,7 @@ We will use the datatype to create a set of visualization to:
 
 [link to dashboard](https://public.tableau.com/profile/zaineb.khan#!/vizhome/Citibike_16172754869480/NYCCitibikeAnalysis)
 
-#Results:
+# Results:
 
 1.	Show the length of time that bikes are checked out for all riders.
 
