@@ -1,7 +1,7 @@
 # bikesharing
-#Overview of the statistical analysis:
+# Overview of the statistical analysis:
 
-#Purpose:
+# Purpose:
 
 The purpose of this analysis was to use Tableau to create visualization to convince investors that a bike-sharing program in Des Moines is a solid business proposal. We have used the data from Citibike program using one of the files from Citibike trip data in NYC, particularly August 2019. We have used the data from August because there is likely more traffic during the summer months. 
 
@@ -17,7 +17,7 @@ We will use the datatype to create a set of visualization to:
 
 •	Show the average trip duration vs the birth year. 
 
-Tableau Vizualization: 
+# Tableau Vizualization: 
 
 [link to dashboard](https://public.tableau.com/profile/zaineb.khan#!/vizhome/Citibike_16172754869480/NYCCitibikeAnalysis)
 
@@ -65,18 +65,18 @@ Average Trip Duration: We can see mostly younger generation (1970 and up) are th
 
 This map indicates the popularity of the bike riders. There might be more tourists in the area that is why there are many riders. Locations matter a lot when it comes to bike riding. 
 
-#Summary:
+# Summary:
 
 Overall, the NYC Citibike Analysis represents that there are numerous amounts of people who would be interested in riding bikes as shown. There are more males bike riders compare to the females. We can see that the data represents time of the year as well, bike riding can only be done in summer months. Users who ride these bikes are mainly subscribers, but regular customers rent out these bikes as well. The trip duration is not too long, mostly is less than 20 minutes but there are some people riding for longer. Bikers are usually riding these bikes in the evening time between 5-7pm. The best repair time is before 5am. 
 
 Additional visualization: 
 We can use BikeID to identify the bikes who have been ridden more requires more bike repairs. 
 
-##Bike Repairs:
+## Bike Repairs:
 
 ![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/Bike-repairs.PNG).
 
-##Bike Utilization:
+## Bike Utilization:
 
 Similarly, we can use bikeID to check for utilization compare to their trip duration to see which bikes have been utilized more. This can check their efficiency as well
 
