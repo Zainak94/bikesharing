@@ -43,7 +43,7 @@ Trips by Weekday. The representation of the heatmap is correct. Mainly riders ri
 
 4.	 Show the number of bike trips for all riders by genders for each hour of each day of the week.
 
-![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/Trip-by-Gender.PNG).
+![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/Trips-by-Gender.PNG).
 
 Trips by Gender by weekday. Similarly, if we are evaluating by data, there are more males that are riding these bikes compare to the females. Darker colour in this represents the number of riders by gender.
 
