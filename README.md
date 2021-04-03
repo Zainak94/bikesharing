@@ -8,9 +8,13 @@ The purpose of this analysis was to use Tableau to create visualization to convi
 We will use the datatype to create a set of visualization to: 
 
 •	Show the length of time that bikes are checked out for all riders and genders.
+
 •	Show the number of bike trips for all riders and genders for each hour of each day of the week.
+
 •	Show the number of bike trips for each type of user and gender for each day of the week.
+
 •	Show the top starting locations of bikers riding these bikes in the map. 
+
 •	Show the average trip duration vs the birth year. 
 
 Tableau Vizualization: 
