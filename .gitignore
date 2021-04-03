@@ -1,8 +1,6 @@
-#Adding CSV files 
-201908-citibike-tripdata.csv
-201908-citibike-tripdata-new.csv
-
-
+#Adding csvs
+201908-citibike-tripdata.csvs
+201908-citibike-tripdata-new.csvs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
