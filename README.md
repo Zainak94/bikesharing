@@ -24,6 +24,7 @@ Tableau Vizualization:
 #Results:
 
 1.	Show the length of time that bikes are checked out for all riders.
+
 ![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/ Checkout-times-Users.PNG).
 
 Checkout time for Users by minutes. Mostly riders trip duration would be less than 20 mins. The riders become less and less as the trip duration increases.
@@ -76,6 +77,7 @@ We can use BikeID to identify the bikes who have been ridden more requires more 
 ![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/ Bike-repairs.PNG).
 
 ##Bike Utilization:
+
 Similarly, we can use bikeID to check for utilization compare to their trip duration to see which bikes have been utilized more. This can check their efficiency as well
 
 ![bikesharing](https://github.com/Zainak94/bikesharing/blob/main/Resources/ Bike-utilization.PNG).
